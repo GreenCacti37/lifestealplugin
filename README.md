@@ -31,7 +31,7 @@ Here are a few screenshots of what the plugin contains!
 <img width="512" height="30" alt="image" src="https://github.com/user-attachments/assets/93c0a540-aa27-4b76-987e-5a43688fe0ff" />
 
 # Useful Commands
-/lifehelp | Gives detailed help and insight to the plugin.
+/lifehelp | Gives detailed help and insight to the plugin.\n
 /heart <giveheart>|<givefrags> | Gives you (only) a Fresh Heart or a Heart Fragment
 
 # Enjoy the Plugin! :D
